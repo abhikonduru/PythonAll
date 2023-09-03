@@ -3,4 +3,4 @@ A dog in the middle of the screen will think about what it needs. If it thinks a
 
 ![](images/screenshot.png)
 
-To run the code download the entire file and run the "Pet_simulator.py" file,
+To run the code download the entire file and run the "Pet_simulator.py" file, also be sure to download pygame.
