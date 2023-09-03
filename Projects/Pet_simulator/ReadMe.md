@@ -1,4 +1,4 @@
-A dog in the middle of the screen will think about what it needs. If it thinks about water click the water bowl, if it needs food click the food bowl, and if it needs to sleep click its bed.
+A dog in the middle of the screen will think about what it needs. If it thinks about water click the water bowl, if it needs food click the food bowl, and if it needs to sleep click its bed. A cool feature for this simulator is that the background changes from day to night every few seconds.
 
 
 ![](images/screenshot.png)
